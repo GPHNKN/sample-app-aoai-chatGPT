@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'lg-sl-dev-weu-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F314AD6A5C7044249D6FE24CEE731132 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4B2341273D045359E05B5E75D145DEE }}
