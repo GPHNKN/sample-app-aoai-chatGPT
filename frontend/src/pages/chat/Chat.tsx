@@ -545,8 +545,8 @@ const Chat = () => {
                                     aria-hidden="true"
                                     style={{ height: "77px", width: "323px" }}
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Welcome to HEINEKEN HR!</h1>
-                                <h2 className={styles.chatEmptyStateSubtitle}>This chatbot is configured to answer questions about wellbeing.</h2>
+                                <h1 className={styles.chatEmptyStateTitle}>Welcome to Alex digital assistant!!</h1>
+                                <h2 className={styles.chatEmptyStateSubtitle}>This chatbot is configured to answer your HR related questions.</h2>
                             </Stack>
                         ) : (
                             <div className={styles.chatMessageStream} style={{ marginBottom: isLoading ? "40px" : "0px" }} role="log">
